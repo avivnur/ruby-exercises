@@ -21,12 +21,12 @@ These exercises are designed to complement the [Ruby Basic lessons](https://www.
 
 #### 1.Basic Data Types
 
-- [x] Numbers Exercises
+- :white_check_mark Numbers Exercises
 - [ ] Strings Exercises
 
 #### 6.Arrays
 
-- [x] Array Exercises
+- :white_check_mark Array Exercises
 
 #### 7.Hashes
 
